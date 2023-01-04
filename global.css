@@ -1,0 +1,57 @@
+:root {
+  /* fonts */
+  --font-arial: Arial;
+  --font-inter: Inter;
+  --font-inria-sans: "Inria Sans";
+
+  /* font sizes */
+  --font-size-base: 12px;
+  --font-size-lg: 14px;
+  --font-size-xl: 15px;
+  --font-size-2xl: 17px;
+  --font-size-3xl: 18px;
+  --font-size-4xl: 19px;
+  --font-size-5xl: 20px;
+  --font-size-6xl: 24px;
+  --font-size-7xl: 28px;
+  --font-size-8xl: 29px;
+  --font-size-9xl: 30px;
+  --font-size-10xl: 53px;
+
+  /* Colors */
+  --color-gray-100: #fbfbfd;
+  --color-gray-200: #f5f5f7;
+  --color-gray-300: #d9d9d9;
+  --color-gray-400: #d2d2d7;
+  --color-gray-500: #6e6e73;
+  --color-gray-600: #424245;
+  --color-gray-700: #1d1d1f;
+  --color-gray-800: #161617;
+  --color-gray-900: rgba(255, 255, 255, 0.8);
+  --color-gray-1000: rgba(255, 255, 255, 0.99);
+  --color-gray-1100: rgba(0, 0, 0, 0.16);
+  --color-gray-1200: rgba(0, 0, 0, 0.56);
+  --color-indigo: #0066cc;
+  --color-white: #fff;
+  --color-violet: #2997ff;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-0: 0px;
+
+  /* Paddings */
+  --padding-3xs: 1px;
+  --padding-2xs: 9px;
+  --padding-xs: 11px;
+  --padding-sm: 13px;
+  --padding-md: 17px;
+  --padding-lg: 48px;
+  --padding-xl: 292px;
+  --padding-2xl: 364.0625px;
+
+  /* border radiuses */
+  --br-xs: 0.5px;
+  --br-sm: 4px;
+  --br-md: 12px;
+  --br-lg: 17px;
+}
